@@ -27,7 +27,7 @@ using:
 
 ###### Example of Usage:
 
-python demo.py prerecoded_pushup.mp4
+python demo.py pre-recoded_pushup.mp4
 
 `python demo.py test.mp4`
 
